@@ -11,7 +11,7 @@
 set -euo pipefail
 
 PROJECT=/vast/eande106/projects/John/nematoda_beta_tubulin
-MINIPROT="$PROJECT/software/miniprot"
+MINIPROT="$PROJECT/software/miniprot/miniprot"
 GENOME="$PROJECT/software/miniprot/test/DPP3-hs.gen.fa.gz"
 PROTEINS="$PROJECT/software/miniprot/test/DPP3-mm.pep.fa.gz"
 OUTPUT="$PROJECT/results/test_output/DPP3.batch.gff3"
