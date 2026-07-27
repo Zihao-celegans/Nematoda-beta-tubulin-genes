@@ -1,0 +1,18 @@
+Species: Caenorhabditis elegans
+Strain: N2
+BioProject: PRJNA13758
+Assembly: WBcel235
+Assembly accession: GCA_000002985.3
+Database: WormBase ParaSite
+Database release: WBPS19
+Annotation version listed for this species: WS290
+Release date: March 2024
+Commands used: 
+wget -c \
+https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/releases/WBPS19/species/caenorhabditis_elegans/PRJNA13758/caenorhabditis_elegans.PRJNA13758.WBPS19.protein.fa.gz
+
+wget -c \
+https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/releases/WBPS19/species/caenorhabditis_elegans/PRJNA13758/caenorhabditis_elegans.PRJNA13758.WBPS19.genomic.fa.gz
+
+wget -c \
+https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/releases/WBPS19/species/caenorhabditis_elegans/PRJNA13758/caenorhabditis_elegans.PRJNA13758.WBPS19.annotations.gff3.gz
