@@ -19,3 +19,16 @@ https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/releases/WBPS19/species/ca
 
 
 To download data from NCBI, we need to first install NCBI Datasets tool
+
+
+Species: Ascaris suum
+BioProject: PRJNA62057
+Database: WormBase ParaSite
+Release: WBPS9
+Folder:
+/vast/eande106/projects/John/nematoda_beta_tubulin/data/genomes/A_suum/PRJNA62057/WBPS9
+Files:
+  ascaris_suum.PRJNA62057.WBPS9.genomic.fa.gz
+  ascaris_suum.PRJNA62057.WBPS9.annotations.gff3.gz
+Source directory:
+  https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/releases/WBPS9/species/ascaris_suum/PRJNA62057/
