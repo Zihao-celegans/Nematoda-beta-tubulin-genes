@@ -16,3 +16,6 @@ https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/releases/WBPS19/species/ca
 
 wget -c \
 https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/releases/WBPS19/species/caenorhabditis_elegans/PRJNA13758/caenorhabditis_elegans.PRJNA13758.WBPS19.annotations.gff3.gz
+
+
+To download data from NCBI, we need to first install NCBI Datasets tool
